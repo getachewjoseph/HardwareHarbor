@@ -1,0 +1,5 @@
+username@gmail.com|Money100
+[|Store1|0.0
+]|Veo100|10.0|money|Store1|10
+end store
+end seller
